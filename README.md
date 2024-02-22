@@ -13,6 +13,6 @@ Always eager to learn and explore new technologies in the ever-evolving web land
 GitHub: https://github.com/INT019
 GitLab: https://github.com/IT21227004
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![gitFerdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitFerdo&theme=dark&show_icons=true)
 
 🚀 Let's connect and collaborate on exciting web projects!
