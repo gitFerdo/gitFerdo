@@ -12,7 +12,7 @@ Always eager to learn and explore new technologies in the ever-evolving web land
 🔗 Other Git accounts:
 GitHub: https://github.com/INT019
 GitLab: https://github.com/IT21227004
-GitHub: [[Your GitHub username/link]](https://github.com/INT019)
-GitLab: [[Your GitLab username/link]](https://github.com/IT21227004)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 🚀 Let's connect and collaborate on exciting web projects!
